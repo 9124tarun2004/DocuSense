@@ -1,7 +1,8 @@
 langchain
 langchain-community
-langchain-huggingface
+langchain-core
 langchain-google-genai
+langchain-huggingface
 faiss-cpu
 streamlit
 pypdf
